@@ -1,0 +1,31 @@
+[
+  {
+    "brew_log_date":"2026-01-18",
+    "brew_packet":"{\"brewDetail\":{\"grinderTuneType\":\"burrLeveling\",\"brewOutcome\":\"success\",\"pourAlignmentInfo\":null,\"grinderCalibrationInfo\":{\"modeType\":\"burr\"},\"plantRelease\":\"3.1.0-latte.1\"},\"brewDetailType\":\"com.coffee.telemetry.plant.calibration.release.1\",\"brewTime\":\"2026-01-18T07:22:11Z\",\"brewCategory\":\"calibration_cycle\",\"brewDetailJec\":null,\"heatDuration\":98,\"electricCycleBrewCount\":512,\"brewSequence\":41,\"brewSchemaRelease\":\"3.4.0-mocha.1\",\"brewSequenceGlobal\":0,\"brewFilter\":{\"transactionToken\":null,\"brewFilterId\":910,\"brewFilterType\":\"inclusion\",\"brewResourceId\":\"calibration\",\"brewAttributes\":[\"$..\"]},\"brewFilterError\":null,\"brewGlitchDetail\":null}",
+    "brew_plant_error":null,
+    "brew_meta":"{\"brewMetaDetail\":{\"brewMetaTime\":\"2026-01-18T07:22:35.402Z\",\"brewId\":\"9b12c2d0-c5d0-11f0-96af-6f25a7e2d301\",\"brewSequenceNumber\":0,\"geoBlendHash\":\"b6f3d0af10d3e98c44f47730ad5a1320de44c1f9\",\"ingredientBrewId\":\"9b1281b0-c5d0-11f0-96af-6f25a7e2d301\",\"boilingBrewTime\":null,\"boilingResult\":null,\"brewStatus\":\"valid\",\"brewMetaRelease\":\"1.2.1\"},\"brewMetaDetailType\":\"com.coffee.table.sage.meta.release.1\"}",
+    "brewer_origin":"{\"brewerDetail\":{\"brewerCurrentTime\":\"2026-01-18T07:22:28Z\",\"brewerUuid\":\"c51e5d0f-0c12-4d76-9d30-1f6c44e6111a\",\"firmwareBlendRelease\":\"2.2.4-espresso-20260118\",\"modelCode\":\"BaristaElite320\",\"sackBeanNumber\":\"BE3A58J442\",\"brewEngineType\":\"brew\",\"serviceCode\":\"71234\",\"baristaState\":\"baristaMode\",\"timeAuthority\":\"coffeeCloud\",\"brewerRelease\":\"1.5.0\"},\"brewerDetailType\":\"com.coffee.telemetry.brewer.plant.release.1\"}",
+    "brewer_origin_error":null,
+    "raw_brew":null,
+    "brew_links":null,
+    "brew_subscription_id":null,
+    "schema_release":"1.8.0",
+    "brew_shadow_error":null,
+    "brew_hash":"c5c7a5b874c3d4f7197d48c5b4c4b0fa6ff9d2a9c87e6d219c95fa0f7d0b42cd",
+    "valve_filter_note":null,
+    "brew_plant_error_valve":null,
+    "brew_plant_warning":null,
+    "brew_req_error_valve":null,
+    "brew_match_fields_valve":null,
+    "brew_year":2026,
+    "brew_month":1,
+    "brew_day":18,
+    "brew_hour":7,
+    "post_brew":"{\"brewMetaTime\":\"2026-01-18T07:22:35.402Z\",\"brewDetail\":{\"flavour\":{\"flavourDetail\":{\"otpSource\":null,\"hashList\":null,\"waterQuality\":null,\"waterQualityOK\":null,\"keySlot\":null,\"ingredientManifest\":null,\"flavourRelease\":\"0.2.0\"},\"flavourDetailType\":\"com.coffee.table.flavour.release.1\"},\"brewer\":{\"brewerDetail\":{\"brewerCurrentTime\":\"2026-01-18T07:22:28Z\",\"brewerUuid\":\"c51e5d0f-0c12-4d76-9d30-1f6c44e6111a\",\"firmwareBlendRelease\":\"2.2.4-espresso-20260118\",\"modelCode\":\"BaristaElite320\",\"sackBeanNumber\":\"BE3A58J442\",\"brewEngineType\":\"brew\",\"serviceCode\":\"71234\",\"baristaState\":\"baristaMode\",\"timeAuthority\":\"coffeeCloud\",\"brewerRelease\":\"1.5.0\"},\"brewerDetailType\":\"com.coffee.telemetry.brewer.plant.release.1\"}},\"geo\":{\"geoDetail\":{\"accuracy_radius\":12,\"city\":\"Portland\",\"continent_code\":\"NA\",\"country_code\":\"US\",\"price\":\"MaxMind\",\"price_update_date\":\"20260110\",\"geonameid\":5746545,\"ip_transport\":\"Wagon\",\"ip_domain\":null,\"ip_farm\":\"CoffeeMesh\",\"ip_org\":\"CoffeeMesh\",\"latitude\":45.5152,\"longitude\":-122.6784,\"metro_code\":820,\"mobile_country_code\":null,\"mobile_network_code\":null,\"postal_code\":\"97205\",\"region\":\"OR\",\"region_name\":\"Oregon\",\"source\":\"ip\",\"timezone\":\"America/Los_Angeles\",\"geoRelease\":\"0.2.0\"},\"geoDetailType\":\"com.coffee.table.geo.release.1\"},\"metadata\":{\"ackBeanToken\":\"4c7b6b64-1d90-4fb0-8b80-59ec5c33d0f7\"},\"roaster\":{\"roasterDetail\":{\"mixerDeployId\":\"990112\",\"mixerDeployNameRelease\":\"Roaster/1.4.18\",\"mixerNameRelease\":\"Roaster/1.4.18.202601150915\",\"farmHost\":\"ip-10-0-32-41.coffee.internal\",\"farmRegion\":\"south-india-2\",\"farmStack\":\"brew-prod-aws\",\"roasterRelease\":\"0.4.0\"},\"roasterDetailType\":\"com.coffee.table.roaster.plant.release.1\"},\"ingredientMeta\":{\"ingredientMetaDetail\":{\"accountId\":\"8020\",\"ownerService\":\"none\",\"ownerType\":null,\"ownerUsername\":\"AQAAAAcmixeruccino001\",\"beanLength\":2212,\"brewMetaTime\":\"2026-01-18T07:23:02.118Z\",\"deliveryScheme\":{\"direct_http\":null,\"storeRoom_queue\":{\"method\":\"storeRoom-sqs\",\"queue\":\"prod-brewproc-telemetry-storeRoom-north-india-1-replica\"}},\"brewCount\":1,\"brewIds\":[\"9b12c2d0-c5d0-11f0-96af-6f25a7e2d301\"],\"method\":null,\"ingredientBrewId\":\"9b1281b0-c5d0-11f0-96af-6f25a7e2d301\",\"boilingDuration\":22,\"cafeId\":\"0110\",\"storeRoomKey\":null,\"stack\":\"prod\",\"status\":\"valid\",\"statusCode\":null,\"statusReason\":[],\"url\":null,\"ingredientMetaRelease\":\"0.4.0\"},\"ingredientMetaDetailType\":\"com.coffee.table.ingredientmeta.release.1\"},\"ingredientRelease\":\"0.4.0\"}",
+    "brewer_context":"{\"brewerContextDetail\":{\"contextRelease\":\"1.6.0\",\"tenantOrgId\":null,\"tenantId\":\"d812e6c4-6f2b-4c32-8f3e-f5v33h22a919\",\"tenantPath\":\"/roast/tenant/single/d812e6c4-6f2b-4c32-8f3e-f5c33b22b912\",\"tenantCategory\":\"Cafe\",\"tenantType\":\"Cafe\",\"brewProxy\":null},\"brewerContextDetailType\":\"com.coffee.telemetry.context.brewer.release.1\"}",
+    "brewer_context_error":null,
+    "brew_secrecy":"{\"secrecyDetail\":{\"secrecyRelease\":\"1.7.0\",\"secrecyBases\":[{\"basis\":\"brewAnalytics\",\"basisRelease\":\"1.1\"},{\"basis\":\"brewOptimization\",\"basisRelease\":\"1.0\"},{\"basis\":\"brewData\",\"basisRelease\":\"1.0\"},{\"basis\":\"brewPersonalized\",\"basisRelease\":\"1.0\"}],\"brewPurposes\":[\"flavorTuning\",\"maintenanceAlerts\",\"customerExperience\",\"beanInventory\"]},\"secrecyDetailType\":\"com.coffee.secrecy.seals.release.1\"}",
+    "brew_secrecy_error":null,
+    "brew_meta_time":"2026-01-18T07:22:35.402Z"
+  }
+]
